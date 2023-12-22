@@ -1,0 +1,16 @@
+(undo-tree-save-format-version . 1)
+"063f4b5c59830c17440e2bdda44ea38b1999bc5c"
+[nil nil nil nil (25987 32640 553688 540000) 0 nil]
+([nil nil ((1 . 10) (t 25987 29019 873256 328000)) nil (25987 34209 977899 438000) 0 nil])
+([nil nil ((#("'" 0 1 (face org-document-info font-lock-fontified t wrap-prefix "" line-prefix "" fontified t)) . -9) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (undo-tree-id25 . -1) 10) nil (25987 34209 977897 848000) 0 nil])
+([nil nil ((9 . 10)) nil (25987 34209 977890 448000) 0 nil])
+([nil nil ((#("\"" 0 1 (face org-document-info font-lock-fontified t wrap-prefix "" line-prefix "" fontified t)) . -9) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) 10) nil (25987 34209 977888 308000) 0 nil])
+([nil nil ((9 . 15)) nil (25987 34209 977729 294000) 0 nil])
+([nil nil ((15 . 16)) nil (25987 34209 977726 84000) 0 nil])
+([nil nil ((1 . 2) (t 25987 34210 37765 257000)) nil (25987 35004 37149 267000) 0 nil])
+([nil nil ((1 . 12)) nil (25987 35004 37147 857000) 0 nil])
+([nil nil ((#("$" 0 1 (face org-document-title font-lock-fontified t wrap-prefix "" line-prefix "" fontified t)) . -11) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) 12) nil (25987 35004 37145 467000) 0 nil])
+([nil nil ((11 . 12)) nil (25987 35004 37109 226000) 0 nil])
+([nil nil ((#("3-3-33" 0 6 (wrap-prefix "" line-prefix "" face org-document-info font-lock-fontified t fontified t)) . 21) (undo-tree-id0 . -6) (undo-tree-id1 . -6) (undo-tree-id2 . -5) (t 25987 35004 81151 813000)) nil (25988 42258 870054 429000) 0 nil])
+([nil current ((21 . 31)) nil (25988 42258 870026 808000) 0 nil])
+nil
